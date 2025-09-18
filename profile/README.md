@@ -8,7 +8,7 @@ Based in Oklahoma City. Started by industry veterans who transitioned from opera
 - Supply chain optimization
 - Data analytics platforms
 - Risk management systems
-- Enterprise system integration
+- Enterprise system integrations
 
 ## Tech Stack
 
